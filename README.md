@@ -8,6 +8,6 @@ DBURL=mongodb://localhost:27017/reactAuthentication
 PORT=3010
 ~~~~
 
-1) Then run the server
+Then run the server via `npm run dev`
 
 ![](img.gif)
